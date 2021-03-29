@@ -1,0 +1,164 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "depth": 3,
+    "filename": "0001220.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        386.0,
+        612.5,
+        608.5,
+        754.0
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        617.5,
+        451.0,
+        755.5,
+        601.0
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1270.0,
+        662.0,
+        1472.5,
+        827.5
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        814.5,
+        523.5,
+        1004.5,
+        668.0
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1430.5,
+        410.0,
+        1645.0,
+        591.0
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1145.0,
+        271.0,
+        1338.0,
+        400.5
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        937.5,
+        390.0,
+        1166.0,
+        562.5
+      ],
+      "confidence": 0.18
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1061.0,
+        587.0,
+        1245.5,
+        701.5
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1159.5,
+        439.0,
+        1326.0,
+        527.0
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1224.5,
+        514.0,
+        1452.0,
+        663.5
+      ],
+      "confidence": 0.13
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1126,
+        578,
+        1248,
+        740
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1091,
+        406,
+        1196,
+        591
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        950,
+        496,
+        1076,
+        610
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1274,
+        506,
+        1395,
+        584
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1380,
+        497,
+        1516,
+        608
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

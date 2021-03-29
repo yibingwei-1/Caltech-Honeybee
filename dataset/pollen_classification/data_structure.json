@@ -1,0 +1,22 @@
+{
+	"image" : 
+	{
+		"width" : int, 
+		"height" : int, 
+		"depth": int,
+		"filename" : str,
+		"classmap": dict,
+	}, 
+	"annotations" : [
+		{
+			"class_id" : int,
+			"bbox" : [
+				left,
+				top,
+				right,
+				bottom
+			], 
+			"confidence": float 
+		},
+	], 
+}

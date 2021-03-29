@@ -1,0 +1,134 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "depth": 3,
+    "filename": "0194040.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        398.0,
+        817.5,
+        614.0,
+        983.5
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        489.5,
+        668.0,
+        672.0,
+        840.5
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        613.5,
+        837.0,
+        818.0,
+        974.0
+      ],
+      "confidence": 0.13
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        632.5,
+        736.5,
+        818.5,
+        913.0
+      ],
+      "confidence": 0.11
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        919.0,
+        839.5,
+        1034.0,
+        930.0
+      ],
+      "confidence": 0.22
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1090.5,
+        794.5,
+        1186.0,
+        912.5
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1159.0,
+        831.0,
+        1306.0,
+        926.0
+      ],
+      "confidence": 0.24
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1096.0,
+        648.5,
+        1228.0,
+        811.0
+      ],
+      "confidence": 0.25
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1305.0,
+        530.0,
+        1461.0,
+        702.0
+      ],
+      "confidence": 0.25
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1243.0,
+        355.5,
+        1380.5,
+        526.5
+      ],
+      "confidence": 0.18
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1375.0,
+        247.0,
+        1579.5,
+        450.0
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        604,
+        844,
+        665,
+        926
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

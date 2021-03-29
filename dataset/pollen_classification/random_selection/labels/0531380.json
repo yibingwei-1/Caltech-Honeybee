@@ -1,0 +1,134 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "depth": 3,
+    "filename": "0531380.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        0.0,
+        755.5,
+        138.0,
+        911.0
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        76.5,
+        689.5,
+        269.0,
+        864.0
+      ],
+      "confidence": 0.26
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        0.0,
+        586.0,
+        66.0,
+        767.5
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        407.5,
+        893.0,
+        603.5,
+        1010.0
+      ],
+      "confidence": 0.19
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1209.5,
+        730.0,
+        1369.5,
+        905.0
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        969.0,
+        803.5,
+        1173.5,
+        923.0
+      ],
+      "confidence": 0.19
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        836.5,
+        828.0,
+        980.5,
+        916.5
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        714.0,
+        813.0,
+        851.0,
+        919.0
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        638.0,
+        691.5,
+        769.5,
+        843.5
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        528.0,
+        815.0,
+        737.0,
+        935.5
+      ],
+      "confidence": 0.23
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        519,
+        853,
+        665,
+        922
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        392,
+        864,
+        471,
+        916
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

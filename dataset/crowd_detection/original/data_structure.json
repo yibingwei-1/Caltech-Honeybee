@@ -1,0 +1,21 @@
+{
+	"image" : 
+	{
+		"width" : int, 
+		"height" : int, 
+		"depth": int,
+		"filename" : str,
+	}, 
+	"consolidated annotations" : [
+		{
+			"line" : [
+				x0,
+				y0,
+				x1,
+				y1
+			], 
+			"num_annotators": float,
+			"num_flip": float,
+		},
+	], 
+}

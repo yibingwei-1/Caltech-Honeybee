@@ -1,0 +1,9700 @@
+{
+  "image": {
+    "width": 4032,
+    "height": 2072,
+    "depth": 3,
+    "filename": "IMG_6362"
+  },
+  "consolidated annotations": [
+    {
+      "line": [
+        1704,
+        1371,
+        1637,
+        1443
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1627,
+        1408,
+        1632,
+        1363
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        394,
+        185,
+        494,
+        212
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3288,
+        1173,
+        3372,
+        1177
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3316,
+        1230,
+        3378,
+        1244
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3137,
+        1570,
+        3211,
+        1634
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3309,
+        1631,
+        3239,
+        1727
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3198,
+        1801,
+        3256,
+        1879
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3279,
+        1784,
+        3336,
+        1705
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3284,
+        1836,
+        3366,
+        1775
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3619,
+        1118,
+        3745,
+        1141
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3751,
+        1206,
+        3876,
+        1213
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3779,
+        1321,
+        3737,
+        1401
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        265,
+        438,
+        155,
+        477
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        937,
+        159,
+        903,
+        248
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        755,
+        711,
+        674,
+        732
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        771,
+        1116,
+        847,
+        1205
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        774,
+        1240,
+        772,
+        1347
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        839,
+        1273,
+        890,
+        1363
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        888,
+        1806,
+        800,
+        1757
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        835,
+        1869,
+        953,
+        1843
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1682,
+        501,
+        1635,
+        395
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1651,
+        1166,
+        1658,
+        1153
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1856,
+        1374,
+        1933,
+        1373
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1793,
+        1684,
+        1880,
+        1717
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1789,
+        1787,
+        1722,
+        1868
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1646,
+        1791,
+        1680,
+        1709
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1635,
+        1666,
+        1666,
+        1588
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2343,
+        958,
+        2404,
+        930
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2367,
+        910,
+        2440,
+        900
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2646,
+        913,
+        2597,
+        925
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2680,
+        1378,
+        2605,
+        1420
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3750,
+        397,
+        3864,
+        435
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3823,
+        379,
+        3861,
+        359
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3826,
+        269,
+        3815,
+        352
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        397,
+        691,
+        456,
+        623
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        655,
+        296,
+        714,
+        372
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        212,
+        1875,
+        184,
+        1905
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        374,
+        1686,
+        501,
+        1721
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        489,
+        1786,
+        421,
+        1746
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        423,
+        1869,
+        444,
+        1792
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1141,
+        175,
+        1210,
+        281
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1193,
+        610,
+        1173,
+        732
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1170,
+        1185,
+        1172,
+        1112
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1293,
+        1356,
+        1317,
+        1299
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1289,
+        1258,
+        1207,
+        1252
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1359,
+        1711,
+        1426,
+        1788
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1319,
+        1803,
+        1320,
+        1908
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1227,
+        1652,
+        1199,
+        1744
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1180,
+        1583,
+        1265,
+        1634
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1291,
+        1638,
+        1314,
+        1731
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2851,
+        176,
+        2865,
+        278
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2663,
+        1904,
+        2712,
+        1860
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2731,
+        1828,
+        2625,
+        1836
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2555,
+        1669,
+        2778,
+        1815
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2862,
+        1696,
+        2904,
+        1892
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2661,
+        1751,
+        2584,
+        1751
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3287,
+        439,
+        3337,
+        483
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3539,
+        762,
+        3618,
+        788
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3752,
+        752,
+        3869,
+        723
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3810,
+        972,
+        3808,
+        904
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3575,
+        1773,
+        3572,
+        1851
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3577,
+        1746,
+        3631,
+        1823
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3707,
+        1756,
+        3656,
+        1681
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3588,
+        1678,
+        3679,
+        1592
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3724,
+        1715,
+        3703,
+        1639
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3713,
+        1702,
+        3734,
+        1637
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3682,
+        1688,
+        3725,
+        1602
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3662,
+        1552,
+        3488,
+        1656
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3654,
+        1904,
+        3680,
+        1717
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3715,
+        1657,
+        3688,
+        1762
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1806,
+        1208,
+        1761,
+        1299
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1720,
+        1231,
+        1738,
+        1214
+      ],
+      "num_annotator": 13,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1684,
+        1295,
+        1755,
+        1355
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1756,
+        1427,
+        1815,
+        1507
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1788,
+        1388,
+        1875,
+        1415
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1850,
+        1442,
+        1863,
+        1461
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1820,
+        1274,
+        1834,
+        1359
+      ],
+      "num_annotator": 13,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1875,
+        1201,
+        1860,
+        1306
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1513,
+        1388,
+        1607,
+        1408
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1450,
+        1561,
+        1532,
+        1542
+      ],
+      "num_annotator": 10,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1659,
+        1590,
+        1661,
+        1598
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1490,
+        1247,
+        1447,
+        1315
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1445,
+        1407,
+        1444,
+        1429
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1690,
+        1185,
+        1782,
+        1181
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1762,
+        1366,
+        1774,
+        1360
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2168,
+        1455,
+        2153,
+        1556
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1926,
+        1481,
+        1945,
+        1491
+      ],
+      "num_annotator": 3,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1948,
+        1448,
+        1998,
+        1392
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2322,
+        1538,
+        2250,
+        1572
+      ],
+      "num_annotator": 13,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2193,
+        1423,
+        2250,
+        1479
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1970,
+        1707,
+        2023,
+        1780
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2054,
+        1717,
+        2114,
+        1746
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1951,
+        2002,
+        2053,
+        2019
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2247,
+        1816,
+        2328,
+        1792
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2278,
+        1837,
+        2276,
+        1920
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2322,
+        1751,
+        2314,
+        1695
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2291,
+        1673,
+        2342,
+        1715
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2306,
+        1433,
+        2324,
+        1487
+      ],
+      "num_annotator": 15,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2319,
+        1592,
+        2346,
+        1662
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1954,
+        2050,
+        1943,
+        2067
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        508,
+        249,
+        592,
+        354
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        364,
+        121,
+        363,
+        210
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        522,
+        214,
+        600,
+        163
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        579,
+        222,
+        669,
+        197
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        617,
+        228,
+        661,
+        269
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        372,
+        386,
+        429,
+        384
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        456,
+        309,
+        460,
+        241
+      ],
+      "num_annotator": 8,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        396,
+        263,
+        410,
+        306
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        263,
+        212,
+        249,
+        121
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        317,
+        259,
+        264,
+        349
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        265,
+        395,
+        342,
+        348
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        603,
+        401,
+        670,
+        406
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        471,
+        424,
+        547,
+        407
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1055,
+        899,
+        1145,
+        836
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1069,
+        768,
+        1103,
+        770
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        986,
+        721,
+        1048,
+        812
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        967,
+        788,
+        986,
+        857
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        948,
+        1101,
+        1010,
+        1063
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1178,
+        1080,
+        1172,
+        1123
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1187,
+        910,
+        1280,
+        943
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1321,
+        926,
+        1372,
+        990
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1267,
+        1109,
+        1317,
+        1034
+      ],
+      "num_annotator": 9,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1329,
+        1116,
+        1368,
+        1047
+      ],
+      "num_annotator": 9,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1330,
+        780,
+        1262,
+        862
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1352,
+        812,
+        1376,
+        896
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1185,
+        712,
+        1172,
+        736
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1264,
+        782,
+        1204,
+        712
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1348,
+        724,
+        1303,
+        734
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1374,
+        723,
+        1389,
+        802
+      ],
+      "num_annotator": 10,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1357,
+        806,
+        1313,
+        759
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2694,
+        1008,
+        2636,
+        1077
+      ],
+      "num_annotator": 10,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2538,
+        977,
+        2547,
+        1015
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2445,
+        1038,
+        2413,
+        1120
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2493,
+        1235,
+        2491,
+        1163
+      ],
+      "num_annotator": 9,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2586,
+        1261,
+        2578,
+        1212
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2456,
+        1292,
+        2549,
+        1272
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2440,
+        1343,
+        2522,
+        1320
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2554,
+        1319,
+        2581,
+        1354
+      ],
+      "num_annotator": 7,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2735,
+        1235,
+        2658,
+        1256
+      ],
+      "num_annotator": 13,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2648,
+        1166,
+        2728,
+        1200
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2808,
+        1201,
+        2743,
+        1174
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2776,
+        1312,
+        2681,
+        1290
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2745,
+        920,
+        2739,
+        999
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2435,
+        1013,
+        2406,
+        963
+      ],
+      "num_annotator": 9,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        3267,
+        307,
+        3246,
+        407
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3000,
+        357,
+        3057,
+        408
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3060,
+        354,
+        3160,
+        384
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3044,
+        295,
+        2955,
+        332
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2926,
+        267,
+        2931,
+        372
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3161,
+        444,
+        3250,
+        474
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3255,
+        416,
+        3303,
+        453
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3260,
+        551,
+        3322,
+        518
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3196,
+        489,
+        3191,
+        590
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3137,
+        558,
+        3143,
+        650
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3061,
+        525,
+        3061,
+        603
+      ],
+      "num_annotator": 12,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3014,
+        510,
+        2999,
+        599
+      ],
+      "num_annotator": 12,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2958,
+        476,
+        2962,
+        569
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2911,
+        490,
+        2894,
+        569
+      ],
+      "num_annotator": 12,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2870,
+        616,
+        2954,
+        608
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3282,
+        614,
+        3252,
+        652
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3002,
+        631,
+        3023,
+        648
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3196,
+        221,
+        3260,
+        273
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3298,
+        793,
+        3209,
+        832
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3219,
+        774,
+        3124,
+        772
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3280,
+        717,
+        3254,
+        731
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2953,
+        721,
+        3002,
+        723
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2910,
+        734,
+        2906,
+        778
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2914,
+        842,
+        3010,
+        845
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3062,
+        887,
+        3036,
+        992
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2992,
+        998,
+        2956,
+        917
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2887,
+        933,
+        2918,
+        1015
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2961,
+        1081,
+        2971,
+        1046
+      ],
+      "num_annotator": 10,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        3060,
+        1065,
+        3058,
+        1129
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3104,
+        1075,
+        3100,
+        1147
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3204,
+        1069,
+        3250,
+        1131
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3265,
+        967,
+        3176,
+        995
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        3239,
+        913,
+        3137,
+        944
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3281,
+        831,
+        3302,
+        923
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3265,
+        1015,
+        3322,
+        1011
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3023,
+        1067,
+        3043,
+        998
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3236,
+        1183,
+        3297,
+        1255
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3232,
+        1266,
+        3312,
+        1322
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3229,
+        1512,
+        3294,
+        1493
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3145,
+        1572,
+        3176,
+        1593
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3183,
+        1179,
+        3208,
+        1255
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3132,
+        1181,
+        3157,
+        1263
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3057,
+        1218,
+        3008,
+        1224
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3003,
+        1179,
+        2961,
+        1193
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3069,
+        1279,
+        3141,
+        1317
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3040,
+        1298,
+        3083,
+        1374
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3011,
+        1338,
+        3044,
+        1389
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2963,
+        1345,
+        2955,
+        1315
+      ],
+      "num_annotator": 10,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2942,
+        1399,
+        2949,
+        1477
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2892,
+        1532,
+        2966,
+        1498
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2877,
+        1478,
+        2916,
+        1420
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3476,
+        1370,
+        3509,
+        1473
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3401,
+        951,
+        3439,
+        1029
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3312,
+        1025,
+        3349,
+        1122
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3358,
+        952,
+        3389,
+        1006
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3306,
+        965,
+        3341,
+        959
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3403,
+        962,
+        3430,
+        960
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3264,
+        1035,
+        3320,
+        1072
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3238,
+        1169,
+        3213,
+        1137
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3276,
+        1277,
+        3231,
+        1214
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3471,
+        1843,
+        3378,
+        1853
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3518,
+        1718,
+        3454,
+        1805
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3412,
+        1653,
+        3532,
+        1650
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3527,
+        1802,
+        3528,
+        1886
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2891,
+        1846,
+        2914,
+        1929
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2869,
+        1704,
+        2942,
+        1706
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3483,
+        1426,
+        3501,
+        1474
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3485,
+        1793,
+        3532,
+        1794
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3918,
+        1222,
+        3919,
+        1328
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3922,
+        1362,
+        3938,
+        1405
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3809,
+        1407,
+        3861,
+        1473
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3700,
+        1508,
+        3703,
+        1586
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3740,
+        1444,
+        3726,
+        1527
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3781,
+        1445,
+        3781,
+        1521
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3736,
+        1530,
+        3724,
+        1611
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3839,
+        1038,
+        3794,
+        964
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3404,
+        1173,
+        3370,
+        1178
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3404,
+        1239,
+        3371,
+        1242
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3830,
+        1067,
+        3821,
+        1018
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        115,
+        448,
+        181,
+        370
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        72,
+        442,
+        3,
+        374
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        52,
+        333,
+        5,
+        319
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        9,
+        187,
+        26,
+        282
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        19,
+        593,
+        31,
+        511
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        154,
+        532,
+        52,
+        568
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        286,
+        514,
+        263,
+        572
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        348,
+        458,
+        313,
+        395
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        350,
+        589,
+        393,
+        544
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        103,
+        612,
+        38,
+        586
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        36,
+        638,
+        75,
+        632
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        408,
+        606,
+        372,
+        647
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        304,
+        535,
+        404,
+        483
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        456,
+        491,
+        432,
+        574
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        475,
+        534,
+        477,
+        632
+      ],
+      "num_annotator": 8,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        498,
+        633,
+        546,
+        597
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        524,
+        490,
+        513,
+        500
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        411,
+        439,
+        502,
+        421
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        247,
+        447,
+        263,
+        437
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        501,
+        255,
+        548,
+        302
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        550,
+        302,
+        453,
+        298
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        568,
+        433,
+        511,
+        467
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        576,
+        507,
+        511,
+        566
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        518,
+        608,
+        591,
+        561
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        574,
+        580,
+        626,
+        523
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        576,
+        422,
+        658,
+        459
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        624,
+        372,
+        625,
+        318
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        582,
+        314,
+        595,
+        395
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        570,
+        395,
+        535,
+        358
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        545,
+        450,
+        637,
+        496
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        618,
+        583,
+        651,
+        656
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        423,
+        469,
+        365,
+        497
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        249,
+        564,
+        367,
+        620
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        354,
+        755,
+        287,
+        717
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        46,
+        661,
+        109,
+        646
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        222,
+        679,
+        312,
+        731
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        151,
+        745,
+        161,
+        558
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        43,
+        606,
+        0,
+        773
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        9,
+        842,
+        85,
+        873
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        219,
+        823,
+        279,
+        869
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        245,
+        726,
+        122,
+        741
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        235,
+        620,
+        258,
+        600
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        323,
+        701,
+        399,
+        622
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        335,
+        828,
+        396,
+        792
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        134,
+        813,
+        191,
+        875
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        113,
+        816,
+        128,
+        774
+      ],
+      "num_annotator": 4,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        134,
+        771,
+        135,
+        727
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        59,
+        572,
+        133,
+        593
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        360,
+        724,
+        418,
+        706
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        86,
+        723,
+        45,
+        809
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        139,
+        765,
+        188,
+        818
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        244,
+        793,
+        296,
+        807
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        350,
+        870,
+        397,
+        874
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        124,
+        818,
+        173,
+        884
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        400,
+        833,
+        449,
+        933
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        401,
+        758,
+        469,
+        850
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        500,
+        689,
+        558,
+        777
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        484,
+        738,
+        501,
+        798
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        488,
+        942,
+        422,
+        1043
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        364,
+        857,
+        327,
+        982
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        228,
+        1013,
+        317,
+        1012
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        313,
+        1055,
+        241,
+        1069
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        246,
+        1109,
+        298,
+        1104
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        261,
+        882,
+        286,
+        964
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        340,
+        765,
+        386,
+        722
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        546,
+        1106,
+        565,
+        1121
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        465,
+        1098,
+        491,
+        1123
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        623,
+        727,
+        662,
+        779
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        551,
+        816,
+        652,
+        837
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        374,
+        936,
+        357,
+        1022
+      ],
+      "num_annotator": 10,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        322,
+        1093,
+        346,
+        1118
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        307,
+        902,
+        240,
+        819
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1091,
+        52,
+        991,
+        73
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1031,
+        161,
+        1129,
+        105
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        993,
+        139,
+        977,
+        249
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        859,
+        286,
+        844,
+        233
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        764,
+        343,
+        745,
+        244
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        819,
+        316,
+        895,
+        329
+      ],
+      "num_annotator": 8,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        916,
+        319,
+        972,
+        411
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        890,
+        288,
+        970,
+        278
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1017,
+        282,
+        1063,
+        347
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1098,
+        235,
+        1104,
+        331
+      ],
+      "num_annotator": 14,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1098,
+        362,
+        1150,
+        422
+      ],
+      "num_annotator": 13,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1026,
+        380,
+        988,
+        326
+      ],
+      "num_annotator": 10,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        860,
+        361,
+        918,
+        419
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        762,
+        419,
+        827,
+        366
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        822,
+        606,
+        806,
+        708
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        701,
+        634,
+        743,
+        685
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        577,
+        631,
+        625,
+        700
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        735,
+        800,
+        846,
+        796
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        888,
+        765,
+        886,
+        860
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        797,
+        1022,
+        897,
+        1071
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        619,
+        535,
+        552,
+        598
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        733,
+        537,
+        727,
+        520
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        758,
+        576,
+        733,
+        580
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1147,
+        603,
+        1066,
+        658
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1030,
+        510,
+        988,
+        588
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        978,
+        460,
+        967,
+        537
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1031,
+        468,
+        1085,
+        519
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1147,
+        552,
+        1067,
+        550
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1064,
+        560,
+        1041,
+        644
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        717,
+        628,
+        767,
+        630
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        758,
+        499,
+        754,
+        474
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        294,
+        1106,
+        182,
+        1116
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        235,
+        1144,
+        342,
+        1207
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        329,
+        1089,
+        387,
+        1194
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        165,
+        1168,
+        143,
+        1225
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        180,
+        1254,
+        261,
+        1203
+      ],
+      "num_annotator": 11,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        304,
+        1303,
+        400,
+        1297
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        324,
+        1329,
+        226,
+        1355
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        180,
+        1270,
+        189,
+        1351
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        85,
+        1220,
+        67,
+        1328
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        44,
+        1195,
+        4,
+        1211
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        102,
+        1093,
+        50,
+        1048
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        136,
+        1101,
+        190,
+        1036
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        191,
+        1070,
+        296,
+        1051
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        57,
+        1085,
+        3,
+        1141
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        63,
+        978,
+        163,
+        988
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        230,
+        950,
+        186,
+        997
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        327,
+        948,
+        324,
+        984
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        157,
+        1358,
+        139,
+        1443
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        271,
+        1503,
+        236,
+        1515
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        119,
+        1517,
+        177,
+        1580
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        18,
+        1594,
+        97,
+        1540
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        98,
+        1508,
+        58,
+        1520
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        97,
+        1453,
+        24,
+        1497
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        9,
+        1411,
+        68,
+        1438
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        9,
+        1339,
+        67,
+        1377
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        222,
+        1375,
+        221,
+        1471
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        20,
+        1301,
+        41,
+        1331
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        295,
+        1415,
+        285,
+        1471
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        292,
+        1523,
+        268,
+        1585
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        396,
+        1432,
+        386,
+        1545
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        333,
+        1363,
+        375,
+        1415
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        275,
+        1182,
+        336,
+        1207
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        375,
+        1187,
+        386,
+        1195
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        350,
+        1424,
+        320,
+        1494
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        915,
+        1132,
+        1008,
+        1070
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1027,
+        1419,
+        1008,
+        1514
+      ],
+      "num_annotator": 12,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1141,
+        1327,
+        1090,
+        1376
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1122,
+        1560,
+        1079,
+        1536
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        747,
+        1408,
+        803,
+        1481
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        836,
+        1493,
+        810,
+        1596
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        548,
+        1112,
+        607,
+        1197
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        635,
+        1219,
+        598,
+        1321
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        521,
+        1250,
+        464,
+        1320
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        490,
+        1122,
+        497,
+        1228
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        499,
+        948,
+        481,
+        980
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1135,
+        1420,
+        1153,
+        1500
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1047,
+        1718,
+        1063,
+        1823
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1009,
+        1611,
+        956,
+        1696
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        880,
+        1941,
+        963,
+        1988
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        839,
+        1939,
+        876,
+        2045
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        789,
+        1942,
+        808,
+        2046
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        821,
+        2048,
+        834,
+        2072
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        906,
+        2070,
+        973,
+        2056
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1028,
+        2068,
+        1051,
+        2042
+      ],
+      "num_annotator": 4,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        664,
+        1912,
+        724,
+        2009
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        606,
+        1919,
+        556,
+        1834
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        589,
+        1947,
+        481,
+        1892
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        512,
+        1951,
+        614,
+        2004
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        619,
+        2005,
+        618,
+        2061
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        534,
+        1993,
+        554,
+        2059
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1165,
+        324,
+        1216,
+        425
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1218,
+        322,
+        1277,
+        403
+      ],
+      "num_annotator": 15,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1221,
+        272,
+        1261,
+        243
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1201,
+        458,
+        1177,
+        537
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1221,
+        582,
+        1270,
+        566
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1194,
+        613,
+        1184,
+        650
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1002,
+        406,
+        1089,
+        452
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1254,
+        456,
+        1246,
+        522
+      ],
+      "num_annotator": 13,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1212,
+        274,
+        1179,
+        261
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1089,
+        461,
+        1119,
+        478
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1305,
+        355,
+        1337,
+        355
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1318,
+        378,
+        1305,
+        504
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1226,
+        464,
+        1271,
+        376
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1208,
+        479,
+        1175,
+        401
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1267,
+        443,
+        1312,
+        396
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1277,
+        293,
+        1361,
+        317
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1109,
+        292,
+        1116,
+        369
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1119,
+        559,
+        1217,
+        558
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1165,
+        591,
+        1089,
+        644
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1350,
+        604,
+        1263,
+        643
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1181,
+        558,
+        1088,
+        557
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1306,
+        261,
+        1383,
+        214
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1400,
+        354,
+        1503,
+        372
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1356,
+        274,
+        1460,
+        308
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1415,
+        243,
+        1498,
+        243
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1303,
+        178,
+        1235,
+        271
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1347,
+        118,
+        1331,
+        216
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1356,
+        77,
+        1464,
+        124
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1440,
+        157,
+        1518,
+        202
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1323,
+        68,
+        1375,
+        34
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1292,
+        54,
+        1279,
+        154
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1459,
+        54,
+        1392,
+        52
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1248,
+        55,
+        1193,
+        129
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1487,
+        52,
+        1552,
+        150
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1548,
+        30,
+        1622,
+        118
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1542,
+        200,
+        1632,
+        204
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1527,
+        241,
+        1614,
+        278
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1550,
+        291,
+        1653,
+        359
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1511,
+        272,
+        1544,
+        359
+      ],
+      "num_annotator": 11,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1392,
+        384,
+        1323,
+        344
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1281,
+        278,
+        1343,
+        275
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1348,
+        480,
+        1414,
+        431
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1355,
+        566,
+        1406,
+        480
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1465,
+        508,
+        1453,
+        599
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1507,
+        565,
+        1500,
+        651
+      ],
+      "num_annotator": 11,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1546,
+        573,
+        1592,
+        650
+      ],
+      "num_annotator": 7,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1621,
+        517,
+        1581,
+        551
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1670,
+        122,
+        1752,
+        182
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1767,
+        61,
+        1818,
+        173
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1791,
+        50,
+        1847,
+        78
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1446,
+        101,
+        1468,
+        123
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1857,
+        115,
+        1863,
+        234
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1705,
+        248,
+        1808,
+        324
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1689,
+        342,
+        1716,
+        429
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1516,
+        375,
+        1447,
+        363
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1541,
+        52,
+        1485,
+        42
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1538,
+        328,
+        1710,
+        351
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1736,
+        312,
+        1663,
+        506
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1733,
+        522,
+        1817,
+        480
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1665,
+        602,
+        1739,
+        554
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1813,
+        556,
+        1852,
+        630
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1745,
+        590,
+        1811,
+        563
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1768,
+        618,
+        1799,
+        647
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1707,
+        368,
+        1796,
+        537
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1780,
+        287,
+        1597,
+        266
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1705,
+        253,
+        1528,
+        316
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1579,
+        613,
+        1700,
+        598
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1719,
+        432,
+        1748,
+        583
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1613,
+        537,
+        1761,
+        518
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1631,
+        297,
+        1555,
+        546
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1775,
+        606,
+        1697,
+        631
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1710,
+        85,
+        1689,
+        73
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1869,
+        288,
+        1896,
+        389
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1933,
+        229,
+        2011,
+        154
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1924,
+        254,
+        1957,
+        346
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2041,
+        300,
+        1999,
+        338
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1959,
+        287,
+        2037,
+        217
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2052,
+        348,
+        2095,
+        431
+      ],
+      "num_annotator": 17,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2036,
+        378,
+        1979,
+        426
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2061,
+        262,
+        2132,
+        258
+      ],
+      "num_annotator": 13,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2042,
+        148,
+        2122,
+        209
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2048,
+        83,
+        2104,
+        69
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1987,
+        72,
+        2091,
+        52
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1965,
+        77,
+        1907,
+        61
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1718,
+        747,
+        1721,
+        856
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1814,
+        744,
+        1781,
+        829
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1827,
+        827,
+        1848,
+        771
+      ],
+      "num_annotator": 14,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1825,
+        914,
+        1852,
+        970
+      ],
+      "num_annotator": 16,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1822,
+        1041,
+        1888,
+        1102
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1829,
+        1015,
+        1906,
+        982
+      ],
+      "num_annotator": 12,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1753,
+        1041,
+        1789,
+        945
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1938,
+        975,
+        1927,
+        1058
+      ],
+      "num_annotator": 17,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1978,
+        949,
+        1973,
+        1035
+      ],
+      "num_annotator": 16,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1967,
+        939,
+        1902,
+        947
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1678,
+        884,
+        1771,
+        901
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1732,
+        1098,
+        1811,
+        1036
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1870,
+        701,
+        1890,
+        787
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1924,
+        715,
+        1933,
+        741
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        1887,
+        796,
+        1876,
+        861
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1700,
+        1021,
+        1750,
+        952
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1669,
+        976,
+        1724,
+        933
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1949,
+        874,
+        1999,
+        909
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1899,
+        883,
+        1840,
+        897
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1821,
+        995,
+        1825,
+        943
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1566,
+        1151,
+        1464,
+        1179
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1744,
+        1145,
+        1830,
+        1137
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1685,
+        1190,
+        1711,
+        1089
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1562,
+        1102,
+        1646,
+        1124
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1434,
+        1066,
+        1468,
+        1086
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1485,
+        986,
+        1476,
+        950
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1608,
+        973,
+        1582,
+        1023
+      ],
+      "num_annotator": 13,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1832,
+        1209,
+        1750,
+        1181
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1659,
+        1012,
+        1670,
+        1064
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1584,
+        1106,
+        1575,
+        1102
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1661,
+        1052,
+        1725,
+        1068
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1643,
+        1140,
+        1657,
+        1076
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1826,
+        1199,
+        1819,
+        1249
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1936,
+        1101,
+        1917,
+        1159
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1979,
+        1218,
+        1919,
+        1278
+      ],
+      "num_annotator": 11,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1945,
+        1272,
+        1959,
+        1352
+      ],
+      "num_annotator": 15,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1848,
+        1440,
+        1942,
+        1490
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2012,
+        1243,
+        1990,
+        1321
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2037,
+        1282,
+        2032,
+        1370
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2062,
+        1240,
+        2075,
+        1345
+      ],
+      "num_annotator": 15,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1533,
+        1669,
+        1620,
+        1722
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1428,
+        1621,
+        1482,
+        1675
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1472,
+        1726,
+        1570,
+        1767
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1687,
+        2030,
+        1782,
+        2033
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1819,
+        1994,
+        1858,
+        1902
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1873,
+        2044,
+        1949,
+        2060
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1629,
+        1444,
+        1686,
+        1419
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2070,
+        70,
+        2163,
+        70
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2162,
+        47,
+        2226,
+        49
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2114,
+        147,
+        2222,
+        149
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2151,
+        296,
+        2071,
+        342
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2194,
+        307,
+        2134,
+        390
+      ],
+      "num_annotator": 13,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2173,
+        277,
+        2223,
+        292
+      ],
+      "num_annotator": 15,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2218,
+        349,
+        2181,
+        427
+      ],
+      "num_annotator": 18,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2245,
+        302,
+        2180,
+        297
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2259,
+        38,
+        2262,
+        148
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2301,
+        20,
+        2320,
+        131
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2352,
+        134,
+        2316,
+        234
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2327,
+        265,
+        2262,
+        336
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2346,
+        287,
+        2277,
+        373
+      ],
+      "num_annotator": 16,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2269,
+        359,
+        2246,
+        416
+      ],
+      "num_annotator": 7,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2303,
+        383,
+        2306,
+        411
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2062,
+        277,
+        2050,
+        306
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2259,
+        354,
+        2232,
+        450
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2170,
+        530,
+        2114,
+        508
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2096,
+        601,
+        2021,
+        606
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2180,
+        607,
+        2160,
+        546
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2258,
+        543,
+        2209,
+        607
+      ],
+      "num_annotator": 14,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2169,
+        649,
+        2256,
+        640
+      ],
+      "num_annotator": 18,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2286,
+        593,
+        2342,
+        573
+      ],
+      "num_annotator": 16,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2201,
+        476,
+        2298,
+        488
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2320,
+        479,
+        2362,
+        413
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2111,
+        579,
+        2097,
+        529
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2107,
+        600,
+        2162,
+        652
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2094,
+        625,
+        2082,
+        649
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2329,
+        623,
+        2312,
+        653
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2525,
+        38,
+        2548,
+        148
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2480,
+        79,
+        2483,
+        167
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2382,
+        108,
+        2467,
+        67
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2338,
+        49,
+        2424,
+        39
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2511,
+        35,
+        2397,
+        72
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2417,
+        138,
+        2374,
+        257
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2472,
+        208,
+        2405,
+        245
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2507,
+        235,
+        2429,
+        296
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2430,
+        334,
+        2386,
+        359
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2471,
+        340,
+        2509,
+        283
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2558,
+        301,
+        2569,
+        337
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2531,
+        330,
+        2485,
+        403
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2553,
+        263,
+        2579,
+        271
+      ],
+      "num_annotator": 16,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2553,
+        357,
+        2544,
+        427
+      ],
+      "num_annotator": 13,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2338,
+        374,
+        2420,
+        411
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2345,
+        512,
+        2455,
+        491
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2353,
+        634,
+        2428,
+        593
+      ],
+      "num_annotator": 13,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2166,
+        526,
+        2209,
+        547
+      ],
+      "num_annotator": 3,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2407,
+        453,
+        2486,
+        437
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2441,
+        604,
+        2464,
+        567
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2310,
+        542,
+        2408,
+        552
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2363,
+        323,
+        2414,
+        267
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2362,
+        285,
+        2298,
+        347
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2509,
+        472,
+        2582,
+        488
+      ],
+      "num_annotator": 15,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2524,
+        516,
+        2448,
+        591
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2360,
+        257,
+        2400,
+        255
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2309,
+        356,
+        2414,
+        352
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2315,
+        470,
+        2411,
+        461
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2292,
+        541,
+        2333,
+        489
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2251,
+        698,
+        2241,
+        777
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2292,
+        727,
+        2368,
+        757
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2419,
+        756,
+        2454,
+        686
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2353,
+        698,
+        2409,
+        642
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2475,
+        601,
+        2430,
+        652
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2334,
+        795,
+        2368,
+        875
+      ],
+      "num_annotator": 10,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2225,
+        887,
+        2271,
+        838
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2196,
+        824,
+        2170,
+        889
+      ],
+      "num_annotator": 14,
+      "num_flip": 6
+    },
+    {
+      "line": [
+        2175,
+        725,
+        2172,
+        811
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2548,
+        784,
+        2503,
+        803
+      ],
+      "num_annotator": 14,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2509,
+        747,
+        2506,
+        634
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2528,
+        607,
+        2620,
+        625
+      ],
+      "num_annotator": 15,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2548,
+        580,
+        2582,
+        573
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2485,
+        927,
+        2547,
+        871
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2346,
+        1084,
+        2242,
+        1068
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2294,
+        868,
+        2254,
+        950
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2388,
+        971,
+        2354,
+        1047
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2496,
+        754,
+        2513,
+        721
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2304,
+        969,
+        2225,
+        1024
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2247,
+        838,
+        2325,
+        829
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2456,
+        833,
+        2463,
+        833
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2474,
+        854,
+        2512,
+        854
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2367,
+        877,
+        2408,
+        859
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2338,
+        891,
+        2336,
+        952
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2552,
+        41,
+        2618,
+        76
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2666,
+        111,
+        2720,
+        55
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2588,
+        139,
+        2686,
+        154
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2626,
+        201,
+        2666,
+        286
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2452,
+        320,
+        2409,
+        351
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2596,
+        338,
+        2609,
+        422
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2609,
+        318,
+        2680,
+        341
+      ],
+      "num_annotator": 11,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2755,
+        82,
+        2801,
+        63
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2737,
+        121,
+        2839,
+        132
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2731,
+        161,
+        2695,
+        261
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2729,
+        271,
+        2829,
+        265
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2776,
+        313,
+        2724,
+        311
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2653,
+        395,
+        2766,
+        388
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2586,
+        188,
+        2538,
+        230
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2655,
+        203,
+        2746,
+        140
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2820,
+        524,
+        2798,
+        615
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2760,
+        461,
+        2775,
+        536
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2702,
+        517,
+        2689,
+        623
+      ],
+      "num_annotator": 18,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2627,
+        452,
+        2718,
+        439
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2542,
+        548,
+        2624,
+        504
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2553,
+        577,
+        2655,
+        572
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2665,
+        291,
+        2639,
+        237
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2767,
+        624,
+        2771,
+        650
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2872,
+        342,
+        2854,
+        418
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2867,
+        236,
+        2875,
+        269
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2886,
+        459,
+        2848,
+        508
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2568,
+        812,
+        2645,
+        778
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2720,
+        657,
+        2670,
+        738
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2652,
+        663,
+        2595,
+        692
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2702,
+        734,
+        2682,
+        819
+      ],
+      "num_annotator": 15,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2769,
+        625,
+        2774,
+        724
+      ],
+      "num_annotator": 7,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2810,
+        698,
+        2791,
+        779
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2764,
+        790,
+        2793,
+        885
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2666,
+        848,
+        2720,
+        857
+      ],
+      "num_annotator": 15,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2576,
+        853,
+        2666,
+        888
+      ],
+      "num_annotator": 8,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2553,
+        855,
+        2527,
+        888
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2744,
+        771,
+        2741,
+        736
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2610,
+        739,
+        2647,
+        710
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2663,
+        738,
+        2700,
+        710
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2704,
+        918,
+        2632,
+        970
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2869,
+        867,
+        2823,
+        791
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2677,
+        888,
+        2648,
+        881
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3010,
+        1095,
+        2987,
+        1125
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2022,
+        956,
+        2041,
+        1043
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2079,
+        970,
+        2109,
+        958
+      ],
+      "num_annotator": 15,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2201,
+        1002,
+        2086,
+        1053
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2060,
+        1075,
+        2055,
+        1159
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2062,
+        1190,
+        2150,
+        1151
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2099,
+        1207,
+        2185,
+        1224
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2085,
+        1227,
+        2153,
+        1286
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2188,
+        1323,
+        2151,
+        1372
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2222,
+        1251,
+        2235,
+        1342
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2110,
+        1286,
+        2115,
+        1343
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2250,
+        1247,
+        2301,
+        1333
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2235,
+        1346,
+        2236,
+        1390
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2287,
+        1224,
+        2340,
+        1166
+      ],
+      "num_annotator": 12,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2159,
+        1021,
+        2206,
+        1000
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2316,
+        1121,
+        2254,
+        1148
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2428,
+        1213,
+        2338,
+        1237
+      ],
+      "num_annotator": 9,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2324,
+        1294,
+        2384,
+        1268
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2351,
+        1335,
+        2407,
+        1303
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2167,
+        1210,
+        2188,
+        1225
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2338,
+        964,
+        2378,
+        950
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2424,
+        1274,
+        2483,
+        1245
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2512,
+        1377,
+        2583,
+        1416
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2478,
+        1375,
+        2507,
+        1441
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2432,
+        1375,
+        2408,
+        1459
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2367,
+        1448,
+        2366,
+        1472
+      ],
+      "num_annotator": 10,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2374,
+        1569,
+        2455,
+        1539
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2536,
+        1469,
+        2424,
+        1494
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2570,
+        1523,
+        2525,
+        1505
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2494,
+        1557,
+        2567,
+        1570
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2663,
+        1453,
+        2663,
+        1525
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2765,
+        1402,
+        2725,
+        1465
+      ],
+      "num_annotator": 8,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2778,
+        1444,
+        2834,
+        1467
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2793,
+        1339,
+        2858,
+        1326
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2794,
+        1362,
+        2835,
+        1419
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2795,
+        1213,
+        2729,
+        1205
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2570,
+        1333,
+        2642,
+        1389
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2778,
+        1581,
+        2850,
+        1555
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2681,
+        1275,
+        2699,
+        1341
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2640,
+        1292,
+        2646,
+        1359
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2556,
+        1215,
+        2516,
+        1240
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2968,
+        1224,
+        2820,
+        1217
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2786,
+        1302,
+        2786,
+        1297
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3020,
+        996,
+        2944,
+        982
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2987,
+        1007,
+        2676,
+        1036
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2705,
+        1010,
+        2712,
+        1009
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2991,
+        1105,
+        2929,
+        1146
+      ],
+      "num_annotator": 7,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3062,
+        1067,
+        3054,
+        1185
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2929,
+        1126,
+        2952,
+        1103
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3058,
+        947,
+        3034,
+        1003
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3069,
+        69,
+        3028,
+        151
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3076,
+        162,
+        3035,
+        242
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2922,
+        132,
+        2921,
+        218
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2892,
+        115,
+        3001,
+        115
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2927,
+        75,
+        2877,
+        75
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2958,
+        75,
+        3035,
+        39
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3131,
+        63,
+        3126,
+        154
+      ],
+      "num_annotator": 4,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3164,
+        64,
+        3190,
+        147
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3248,
+        86,
+        3322,
+        128
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3274,
+        69,
+        3204,
+        74
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3184,
+        184,
+        3296,
+        167
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3306,
+        295,
+        3297,
+        220
+      ],
+      "num_annotator": 7,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3051,
+        34,
+        3094,
+        65
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3035,
+        107,
+        2946,
+        91
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2894,
+        215,
+        2951,
+        275
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3244,
+        260,
+        3272,
+        328
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3180,
+        392,
+        3122,
+        367
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3214,
+        253,
+        3241,
+        327
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3000,
+        631,
+        3032,
+        716
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3284,
+        619,
+        3206,
+        684
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3280,
+        758,
+        3314,
+        757
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3357,
+        709,
+        3380,
+        794
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3413,
+        704,
+        3425,
+        800
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3495,
+        689,
+        3462,
+        755
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3443,
+        808,
+        3529,
+        846
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3397,
+        832,
+        3453,
+        884
+      ],
+      "num_annotator": 8,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3364,
+        818,
+        3384,
+        908
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3329,
+        796,
+        3328,
+        881
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3376,
+        1006,
+        3266,
+        1022
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3598,
+        138,
+        3523,
+        186
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3505,
+        186,
+        3410,
+        252
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3423,
+        138,
+        3354,
+        213
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3442,
+        71,
+        3352,
+        67
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3517,
+        73,
+        3448,
+        122
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3563,
+        83,
+        3528,
+        89
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3507,
+        130,
+        3424,
+        183
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3413,
+        299,
+        3383,
+        303
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3455,
+        312,
+        3482,
+        263
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3499,
+        244,
+        3576,
+        275
+      ],
+      "num_annotator": 9,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3408,
+        359,
+        3416,
+        410
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3457,
+        374,
+        3460,
+        398
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3497,
+        359,
+        3474,
+        339
+      ],
+      "num_annotator": 11,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3514,
+        336,
+        3545,
+        413
+      ],
+      "num_annotator": 15,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3584,
+        406,
+        3593,
+        314
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3637,
+        297,
+        3709,
+        343
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3611,
+        392,
+        3699,
+        344
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3717,
+        274,
+        3772,
+        349
+      ],
+      "num_annotator": 7,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3762,
+        236,
+        3791,
+        305
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3678,
+        387,
+        3734,
+        419
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3514,
+        181,
+        3484,
+        207
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3588,
+        421,
+        3676,
+        452
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3612,
+        483,
+        3578,
+        552
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3667,
+        635,
+        3569,
+        584
+      ],
+      "num_annotator": 9,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3688,
+        600,
+        3702,
+        570
+      ],
+      "num_annotator": 11,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        3647,
+        477,
+        3685,
+        561
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3698,
+        467,
+        3760,
+        479
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3522,
+        506,
+        3546,
+        567
+      ],
+      "num_annotator": 13,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3723,
+        521,
+        3778,
+        568
+      ],
+      "num_annotator": 11,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3583,
+        461,
+        3626,
+        462
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3594,
+        468,
+        3481,
+        482
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3931,
+        376,
+        4022,
+        429
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3840,
+        460,
+        3958,
+        455
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3835,
+        395,
+        3917,
+        402
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3792,
+        464,
+        3868,
+        506
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3778,
+        524,
+        3889,
+        540
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3832,
+        591,
+        3945,
+        648
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3781,
+        568,
+        3822,
+        650
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3617,
+        426,
+        3716,
+        469
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3613,
+        602,
+        3678,
+        635
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3944,
+        227,
+        3945,
+        323
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3038,
+        1039,
+        3049,
+        974
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        79,
+        913,
+        23,
+        967
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        239,
+        864,
+        214,
+        896
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        192,
+        819,
+        237,
+        820
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        259,
+        1055,
+        265,
+        870
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        371,
+        962,
+        337,
+        812
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        81,
+        1037,
+        46,
+        927
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        12,
+        790,
+        43,
+        743
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        361,
+        734,
+        206,
+        732
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        380,
+        716,
+        459,
+        673
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        736,
+        406,
+        756,
+        493
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        791,
+        489,
+        832,
+        417
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        849,
+        499,
+        881,
+        434
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        811,
+        644,
+        829,
+        598
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        888,
+        242,
+        900,
+        186
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        754,
+        542,
+        758,
+        498
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        469,
+        1498,
+        415,
+        1440
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        449,
+        1535,
+        406,
+        1466
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        260,
+        1191,
+        240,
+        1248
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        176,
+        1634,
+        213,
+        1725
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        110,
+        1580,
+        109,
+        1697
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        288,
+        1524,
+        274,
+        1635
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        310,
+        1707,
+        406,
+        1795
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        319,
+        1832,
+        301,
+        1742
+      ],
+      "num_annotator": 9,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        222,
+        1422,
+        219,
+        1482
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        134,
+        1465,
+        144,
+        1422
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        170,
+        1758,
+        156,
+        1818
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        254,
+        1761,
+        299,
+        1845
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        117,
+        1747,
+        104,
+        1660
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        130,
+        1734,
+        155,
+        1693
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        394,
+        1680,
+        418,
+        1741
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        249,
+        1883,
+        188,
+        1785
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        38,
+        1951,
+        42,
+        2067
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        335,
+        1899,
+        280,
+        2003
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        384,
+        1979,
+        379,
+        2067
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        177,
+        1921,
+        161,
+        2037
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        359,
+        1831,
+        382,
+        1912
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        398,
+        1847,
+        355,
+        1785
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        211,
+        1934,
+        250,
+        2009
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        237,
+        2022,
+        262,
+        2064
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        323,
+        1981,
+        315,
+        2056
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        293,
+        1892,
+        216,
+        1932
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        110,
+        1833,
+        175,
+        1810
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        191,
+        1974,
+        186,
+        1916
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        402,
+        1928,
+        420,
+        1982
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        321,
+        1865,
+        266,
+        1760
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        475,
+        1985,
+        411,
+        1959
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        502,
+        1985,
+        490,
+        2042
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        429,
+        2016,
+        437,
+        2072
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        352,
+        1902,
+        250,
+        1869
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1247,
+        716,
+        1329,
+        645
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1311,
+        475,
+        1306,
+        508
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1054,
+        714,
+        1155,
+        664
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1249,
+        722,
+        1327,
+        699
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1345,
+        588,
+        1304,
+        565
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1323,
+        536,
+        1209,
+        625
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1495,
+        785,
+        1588,
+        774
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1455,
+        757,
+        1575,
+        547
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1474,
+        683,
+        1442,
+        764
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1337,
+        709,
+        1577,
+        517
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1579,
+        679,
+        1589,
+        796
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1450,
+        801,
+        1501,
+        862
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1375,
+        855,
+        1366,
+        571
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1494,
+        748,
+        1564,
+        697
+      ],
+      "num_annotator": 9,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1413,
+        834,
+        1434,
+        912
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1578,
+        833,
+        1626,
+        895
+      ],
+      "num_annotator": 11,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1474,
+        878,
+        1483,
+        992
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1618,
+        725,
+        1623,
+        775
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1457,
+        712,
+        1425,
+        781
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1542,
+        990,
+        1567,
+        1003
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1689,
+        480,
+        1700,
+        505
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1930,
+        480,
+        1913,
+        589
+      ],
+      "num_annotator": 9,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1930,
+        440,
+        1923,
+        496
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1959,
+        456,
+        2027,
+        390
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2033,
+        506,
+        2039,
+        471
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        1990,
+        595,
+        2097,
+        601
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1976,
+        583,
+        1919,
+        641
+      ],
+      "num_annotator": 12,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1698,
+        623,
+        1700,
+        653
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1873,
+        489,
+        1894,
+        552
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1968,
+        523,
+        1972,
+        583
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2060,
+        328,
+        2095,
+        321
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1624,
+        724,
+        1655,
+        836
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1704,
+        629,
+        1699,
+        728
+      ],
+      "num_annotator": 4,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        1829,
+        642,
+        1804,
+        704
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1845,
+        518,
+        1856,
+        552
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1860,
+        687,
+        1860,
+        743
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1465,
+        517,
+        1464,
+        522
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1709,
+        769,
+        1700,
+        694
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1629,
+        738,
+        1556,
+        596
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1790,
+        509,
+        1692,
+        583
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1563,
+        536,
+        1489,
+        595
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1523,
+        713,
+        1478,
+        813
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1820,
+        680,
+        1840,
+        606
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1705,
+        1083,
+        1696,
+        1121
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1744,
+        1116,
+        1743,
+        1125
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1977,
+        830,
+        2029,
+        739
+      ],
+      "num_annotator": 12,
+      "num_flip": 5
+    },
+    {
+      "line": [
+        2074,
+        859,
+        2115,
+        855
+      ],
+      "num_annotator": 13,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2101,
+        719,
+        2066,
+        765
+      ],
+      "num_annotator": 14,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        2095,
+        630,
+        2047,
+        719
+      ],
+      "num_annotator": 8,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2031,
+        673,
+        1965,
+        746
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1912,
+        793,
+        2007,
+        779
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1997,
+        843,
+        1995,
+        889
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1343,
+        1412,
+        1301,
+        1468
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        1425,
+        1416,
+        1400,
+        1494
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1271,
+        1514,
+        1360,
+        1566
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1247,
+        1552,
+        1292,
+        1612
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1268,
+        954,
+        1279,
+        954
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1251,
+        1995,
+        1162,
+        1955
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1807,
+        1142,
+        1839,
+        1138
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2093,
+        1238,
+        2104,
+        1329
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1915,
+        1355,
+        1915,
+        1297
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2169,
+        35,
+        2266,
+        27
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2218,
+        146,
+        2166,
+        143
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2413,
+        291,
+        2456,
+        250
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2194,
+        303,
+        2166,
+        337
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2143,
+        676,
+        2205,
+        742
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1946,
+        655,
+        1949,
+        697
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2202,
+        616,
+        2226,
+        567
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2274,
+        727,
+        2329,
+        742
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2328,
+        770,
+        2334,
+        850
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2210,
+        653,
+        2297,
+        664
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2107,
+        487,
+        2173,
+        701
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2049,
+        487,
+        2096,
+        496
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2026,
+        937,
+        1954,
+        877
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2022,
+        871,
+        2099,
+        914
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2695,
+        152,
+        2653,
+        148
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2409,
+        504,
+        2457,
+        492
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2665,
+        659,
+        2625,
+        736
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2165,
+        1413,
+        2202,
+        1377
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        2330,
+        1321,
+        2344,
+        1353
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2405,
+        1506,
+        2454,
+        1448
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2431,
+        1344,
+        2462,
+        1345
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2449,
+        1301,
+        2465,
+        1288
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2232,
+        1361,
+        2224,
+        1409
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2196,
+        1328,
+        2207,
+        1366
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2254,
+        1194,
+        2240,
+        1288
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2320,
+        1444,
+        2388,
+        1396
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2393,
+        1297,
+        2384,
+        1240
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2493,
+        1843,
+        2399,
+        1839
+      ],
+      "num_annotator": 4,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2465,
+        1885,
+        2543,
+        1928
+      ],
+      "num_annotator": 5,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2577,
+        1727,
+        2569,
+        1820
+      ],
+      "num_annotator": 4,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2509,
+        1589,
+        2561,
+        1650
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2475,
+        1573,
+        2406,
+        1607
+      ],
+      "num_annotator": 5,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2405,
+        1469,
+        2415,
+        1423
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2501,
+        1430,
+        2536,
+        1447
+      ],
+      "num_annotator": 3,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        2335,
+        1638,
+        2395,
+        1549
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2475,
+        1569,
+        2506,
+        1494
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2374,
+        1528,
+        2351,
+        1560
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2288,
+        1801,
+        2388,
+        1835
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2482,
+        1924,
+        2568,
+        1796
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2480,
+        1829,
+        2578,
+        1740
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2603,
+        1469,
+        2490,
+        1468
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2473,
+        1451,
+        2421,
+        1431
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2812,
+        1876,
+        2850,
+        1952
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2704,
+        1997,
+        2729,
+        1911
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2781,
+        1579,
+        2886,
+        1541
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2845,
+        1502,
+        2929,
+        1434
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2467,
+        1531,
+        2407,
+        1558
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2827,
+        1911,
+        2718,
+        1956
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3338,
+        274,
+        3358,
+        339
+      ],
+      "num_annotator": 6,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3300,
+        365,
+        3363,
+        417
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3413,
+        371,
+        3409,
+        477
+      ],
+      "num_annotator": 6,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3385,
+        500,
+        3401,
+        609
+      ],
+      "num_annotator": 12,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3308,
+        595,
+        3331,
+        665
+      ],
+      "num_annotator": 5,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3447,
+        527,
+        3451,
+        607
+      ],
+      "num_annotator": 12,
+      "num_flip": 4
+    },
+    {
+      "line": [
+        3493,
+        615,
+        3433,
+        664
+      ],
+      "num_annotator": 10,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3503,
+        471,
+        3421,
+        470
+      ],
+      "num_annotator": 6,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3534,
+        770,
+        3548,
+        766
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3252,
+        486,
+        3224,
+        477
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3633,
+        714,
+        3740,
+        665
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3515,
+        623,
+        3555,
+        704
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3656,
+        738,
+        3653,
+        816
+      ],
+      "num_annotator": 3,
+      "num_flip": 2
+    },
+    {
+      "line": [
+        3720,
+        817,
+        3689,
+        913
+      ],
+      "num_annotator": 6,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3694,
+        740,
+        3723,
+        797
+      ],
+      "num_annotator": 5,
+      "num_flip": 3
+    },
+    {
+      "line": [
+        3722,
+        757,
+        3785,
+        735
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3756,
+        673,
+        3743,
+        733
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3751,
+        476,
+        3756,
+        515
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3617,
+        1117,
+        3715,
+        1120
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3859,
+        781,
+        3943,
+        857
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3839,
+        643,
+        3948,
+        686
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3752,
+        884,
+        3812,
+        853
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3838,
+        826,
+        3891,
+        910
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3747,
+        804,
+        3767,
+        748
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3977,
+        846,
+        3959,
+        817
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3811,
+        676,
+        3908,
+        724
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3625,
+        1935,
+        3710,
+        1881
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3518,
+        1765,
+        3570,
+        1724
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3654,
+        1634,
+        3707,
+        1552
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3663,
+        1710,
+        3495,
+        1452
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2055,
+        1068,
+        2054,
+        1113
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1830,
+        747,
+        1805,
+        761
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1977,
+        719,
+        1972,
+        776
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        2013,
+        750,
+        2007,
+        761
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2196,
+        470,
+        2226,
+        473
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        1931,
+        452,
+        1928,
+        571
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2158,
+        459,
+        2118,
+        403
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        1931,
+        366,
+        1950,
+        464
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2011,
+        555,
+        2073,
+        567
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2433,
+        575,
+        2407,
+        603
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2503,
+        625,
+        2506,
+        653
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        2644,
+        392,
+        2703,
+        400
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3451,
+        237,
+        3402,
+        254
+      ],
+      "num_annotator": 3,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3553,
+        595,
+        3586,
+        652
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3635,
+        587,
+        3623,
+        507
+      ],
+      "num_annotator": 2,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3636,
+        471,
+        3670,
+        508
+      ],
+      "num_annotator": 3,
+      "num_flip": 0
+    },
+    {
+      "line": [
+        3515,
+        610,
+        3475,
+        546
+      ],
+      "num_annotator": 2,
+      "num_flip": 1
+    },
+    {
+      "line": [
+        3417,
+        336,
+        3406,
+        352
+      ],
+      "num_annotator": 1,
+      "num_flip": 0
+    }
+  ]
+}

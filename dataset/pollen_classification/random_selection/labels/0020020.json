@@ -1,0 +1,224 @@
+{
+  "image": {
+    "width": 1280,
+    "height": 720,
+    "depth": 3,
+    "filename": "0020020.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        202.5,
+        393.5,
+        268.0,
+        454.0
+      ],
+      "confidence": 0.15
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        548.5,
+        456.0,
+        641.5,
+        512.5
+      ],
+      "confidence": 0.12
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        509.0,
+        323.5,
+        591.5,
+        377.0
+      ],
+      "confidence": 0.08
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1076.5,
+        270.0,
+        1146.5,
+        328.5
+      ],
+      "confidence": 0.22
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        747.0,
+        382.5,
+        818.5,
+        445.0
+      ],
+      "confidence": 0.19
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        608.0,
+        292.0,
+        702.0,
+        366.0
+      ],
+      "confidence": 0.12
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        523,
+        394,
+        772,
+        525
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        616.0,
+        371.0,
+        675.0,
+        413.5
+      ],
+      "confidence": 0.15
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        722,
+        426,
+        785,
+        470
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        660,
+        475,
+        723,
+        512
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        535,
+        481,
+        601,
+        523
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        477,
+        352,
+        531,
+        398
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        522,
+        380,
+        558,
+        436
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        554,
+        392,
+        608,
+        432
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        560,
+        426,
+        593,
+        458
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        595,
+        421,
+        632,
+        458
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        626,
+        437,
+        657,
+        472
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        642,
+        414,
+        681,
+        455
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        671,
+        420,
+        720,
+        473
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        582,
+        356,
+        620,
+        392
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1097,
+        330,
+        1160,
+        373
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "image": {
+    "width": 1046,
+    "height": 1046,
+    "depth": 3,
+    "filename": "0211340.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        626,
+        111,
+        792,
+        343
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        458,
+        378,
+        661,
+        534
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        759,
+        461,
+        988,
+        596
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        782,
+        573,
+        912,
+        725
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        767,
+        700,
+        943,
+        809
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        652,
+        647,
+        812,
+        742
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        627,
+        596,
+        767,
+        707
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        569,
+        711,
+        739,
+        820
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        439,
+        675,
+        615,
+        838
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        376,
+        554,
+        552,
+        759
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        289,
+        625,
+        494,
+        819
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        118,
+        413,
+        303,
+        589
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        492.5,
+        546.5,
+        676.0,
+        694.0
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        667.0,
+        678.5,
+        810.5,
+        797.5
+      ],
+      "confidence": 0.2
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        527,
+        643,
+        661,
+        756
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        642,
+        120,
+        786,
+        323
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        778,
+        467,
+        961,
+        591
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        132,
+        422,
+        250,
+        554
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        482,
+        405,
+        634,
+        532
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        778,
+        585,
+        899,
+        721
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        758,
+        707,
+        913,
+        803
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        296,
+        633,
+        448,
+        791
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        403,
+        571,
+        510,
+        746
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        527,
+        537,
+        673,
+        656
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        600,
+        735,
+        727,
+        842
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        451,
+        670,
+        580,
+        825
+      ],
+      "confidence": 0.09
+    },
+    {
+      "class_id": 1,
+      "bbox": [
+        631,
+        597,
+        784,
+        704
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

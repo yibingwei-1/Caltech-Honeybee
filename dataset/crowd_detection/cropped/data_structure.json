@@ -1,0 +1,29 @@
+{
+	"image" : 
+	{
+		"width" : int, 
+		"height" : int, 
+		"depth": int,
+		"filename" : str,
+	}, 
+	"raw annotations" : [
+		{
+			"workerID" : str, 
+			"lines": [
+				[x0,y0,x1,y1],
+			]
+		},
+	], 
+	"consolidated annotations" : [
+		{
+			"line" : [
+				x0,
+				y0,
+				x1,
+				y1
+			], 
+			"num_annotators": float,
+			"num_flip": float,
+		},
+	], 
+}
