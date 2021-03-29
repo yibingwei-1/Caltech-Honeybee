@@ -2,7 +2,7 @@
 Honeybee dataset
 
 This repo contains:
-1. Two honeybee dataset: pollen-bearing bee detection dataset and cowded bee detection dataset
+1. Two honeybee dataset: [pollen-bearing bee detection](#Pollen-bearing bee detection) dataset and [cowded bee detection](#Crowded bee detection) dataset.
 2. Example code to use the dataset.
 
 ## Pollen-bearing bee detection
