@@ -35,10 +35,10 @@ This dataset uses bounding box ([left, top, right, bottom]) to detect bees and c
 }
 ```
 ### Visualization
-![random selection]()
+![random selection](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_random_selection.jpg?raw=true)
 A visualzation sample in random_selection part
 
-![pollen selection]()
+![pollen selection](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_pollen_selection.jpg?raw=true)
 A visualzation sample in pollen_selection part
 
 ## Crowded bee detection
@@ -46,7 +46,7 @@ This dataset contains 10 images that are shot from the top view of the beehive f
 
 This dataset uses oriented lines ([x0,y0,x1,y1]) to detect bees, where (x0,y0) is the location of bee's head and (x1,y1) is the tail.
 
-For the original fullsize images, we provides the conslideated line annotation from crowdsourcing annotators for all 10 images, as well as the consolidated line annotations from three expert annotators. The data format is below:
+For the **original fullsize images**, we provides the conslideated line annotation from crowdsourcing annotators for all 10 images, as well as the consolidated line annotations from three expert annotators. The data format is below:
 
 ```
 {
@@ -73,7 +73,7 @@ For the original fullsize images, we provides the conslideated line annotation f
 ```
 The num_annotators refers to the number of lines that are used for consolidating this result and num_filp is the number of lines whose direction were flipped when consolidating.
 
-For the cropped subimages, we provides the raw crowdsourcing annotations and the consolidated result using the following format:
+For the **cropped subimages**, we provides the raw crowdsourcing annotations and the consolidated result using the following format:
 ```
 {
 	"image" : 
@@ -106,11 +106,12 @@ For the cropped subimages, we provides the raw crowdsourcing annotations and the
 }
 ```
 ### Visualization
-![random selection]()
+![original image](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_original_image.jpg?raw=true)
 A visualzation sample of original image
 
-![pollen selection]()
+![cropped subimage](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_cropped_subimage.jpg?raw=true)
 A visualzation sample of cropped subimage
 
 ## Usage
 See the example code.
+
