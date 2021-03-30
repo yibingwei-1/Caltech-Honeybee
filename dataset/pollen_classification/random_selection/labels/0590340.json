@@ -1,0 +1,74 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "depth": 3,
+    "filename": "0590340.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        510.0,
+        833.5,
+        642.0,
+        949.0
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        788.5,
+        765.0,
+        951.5,
+        931.0
+      ],
+      "confidence": 0.24
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1119.0,
+        814.0,
+        1356.5,
+        951.0
+      ],
+      "confidence": 0.25
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1396.0,
+        808.0,
+        1575.0,
+        950.5
+      ],
+      "confidence": 0.26
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1760.0,
+        842.0,
+        1920.0,
+        939.0
+      ],
+      "confidence": 0.21
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1187,
+        814,
+        1382,
+        942
+      ],
+      "confidence": 0.09
+    }
+  ]
+}

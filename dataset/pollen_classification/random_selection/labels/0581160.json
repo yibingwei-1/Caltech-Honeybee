@@ -1,0 +1,34 @@
+{
+  "image": {
+    "width": 1920,
+    "height": 1080,
+    "depth": 3,
+    "filename": "0581160.jpg",
+    "class_map": {
+      "0": "ordinary bee",
+      "1": "pollen-bearing bee"
+    }
+  },
+  "annotations": [
+    {
+      "class_id": 0,
+      "bbox": [
+        1536.3333333333333,
+        737.0,
+        1739.0,
+        909.3333333333334
+      ],
+      "confidence": 0.46
+    },
+    {
+      "class_id": 0,
+      "bbox": [
+        1471.5,
+        842.5,
+        1617.5,
+        947.5
+      ],
+      "confidence": 0.25
+    }
+  ]
+}
