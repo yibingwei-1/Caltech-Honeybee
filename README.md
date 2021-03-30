@@ -107,9 +107,11 @@ For the **cropped subimages**, we provides the raw crowdsourcing annotations and
 ```
 ### Visualization
 ![original image](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_original_image.jpg?raw=true)
+
 A visualzation sample of original image
 
 ![cropped subimage](https://github.com/ywwwei/Caltech-Honeybee/blob/main/examples/images/dome_cropped_subimage.jpg?raw=true)
+
 A visualzation sample of cropped subimage
 
 ## Usage
